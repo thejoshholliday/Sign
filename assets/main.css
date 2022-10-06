@@ -1,3 +1,15 @@
+@font-face {
+  font-family: mont;
+  src: url(Mont-HeavyDEMO.otf);
+}
+@font-face {
+	font-family: Ohno Blazeface;
+	src: url(ohnoBlazeface-12Point.ttf);
+}
+@font-face{
+	font-family: ethnocentric;
+	src: url(ethnocentric rg.otf);
+}
 body {
 	background-color: black;
 }
